@@ -1,4 +1,4 @@
-# Webdev Tutorial
+# Structure
 
 The tutorial is consisted by 3 parts
 1. Html
