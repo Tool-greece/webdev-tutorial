@@ -1,7 +1,7 @@
 # Structure
 
 The tutorial is consisted by 3 parts
-1. Html
+1. [Html](/html.md)
 2. CSS
 3. PHP/Wordpress
 
