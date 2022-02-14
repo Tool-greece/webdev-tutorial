@@ -24,9 +24,12 @@
 ### Video Course
 [https://www.youtube.com/watch?v=ieTHC78giGQ](https://www.youtube.com/watch?v=ieTHC78giGQ)
 
+[https://www.youtube.com/watch?v=yfoY53QXEnI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=3](https://www.youtube.com/watch?v=yfoY53QXEnI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=3)
 
 ### Making webpages
 [https://www.khanacademy.org/computing/computer-programming/html-css](https://www.khanacademy.org/computing/computer-programming/html-css)
+
+[https://www.youtube.com/watch?v=Wm6CUkswsNw&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=4](https://www.youtube.com/watch?v=Wm6CUkswsNw&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=4)
 
 
 
