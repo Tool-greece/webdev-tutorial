@@ -6,6 +6,14 @@ Here we are going to put material about JS
 An extensive collection of subjects on modern js
 [https://javascript.info/](https://javascript.info/)
 
+### Tutorial with 7 small games
+[https://www.freecodecamp.org/news/learn-javascript-by-coding-7-games/](https://www.freecodecamp.org/news/learn-javascript-by-coding-7-games/) 
+
+### Full js for Beginners (7h)
+[https://www.freecodecamp.org/news/full-javascript-course-for-beginners/](https://www.freecodecamp.org/news/full-javascript-course-for-beginners/) 
+
+
+
 ### Async Javascript
 
 #### Fetch Api
@@ -21,7 +29,11 @@ An extensive collection of subjects on modern js
 [https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php](https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php)
 
 
+### Javascript Concepts
+#### Basic concepts before React
+[https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/](https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/)
+
+
 ### MERN stack
 [https://www.youtube.com/watch?v=-0exw-9YJBo&list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm](https://www.youtube.com/watch?v=-0exw-9YJBo&list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm)
-
 
