@@ -18,5 +18,5 @@ A list of quality material channels
 
 ## Exercise
 
-Build a Netflix Landing Page Clone with HTML, CSS & JS
+Build a Netflix Landing Page Clone with HTML, CSS & JS \
 [https://www.youtube.com/watch?v=P7t13SGytRk&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=7](https://www.youtube.com/watch?v=P7t13SGytRk&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=7)
