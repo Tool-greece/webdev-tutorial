@@ -30,6 +30,9 @@ An extensive collection of subjects on modern js
 
 
 ### Javascript Concepts
+#### Javascript Design patterns (read)
+[https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns](https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns)
+
 #### Basic concepts before React
 [https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/](https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/)
 
