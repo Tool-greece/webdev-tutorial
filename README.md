@@ -4,6 +4,6 @@ These pages are a blog that contains several articles about topics of interest s
 accesiblility, webdev etc
 
 ## Content
-1. [Accesibility Guide](/accessibility/index.md) 
-2. [Web development subjects](/webdev.md)
+1. [Accesibility Guide](/accessibility/index.html) 
+2. [Web development subjects](/webdev.html)
 
